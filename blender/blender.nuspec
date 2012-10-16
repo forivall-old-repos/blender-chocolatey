@@ -1,0 +1,27 @@
+<?xml version="1.0"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
+  <metadata>
+    <id>blender</id>
+    <title>Blender</title>
+    <version>2.64a</version>
+    <authors>The Blender Foundation</authors>
+    <owners>Jordan Klassen</owners>
+    <summary>Blender is the free open source 3D content creation suite.</summary>
+    <description>Blender was first conceived in December 1993 and born as a usable
+	product in August 1994 as an integrated application that enables the creation
+	of a diverse range of 2D and 3D content. Blender provides a broad spectrum of
+	modeling, texturing, lighting, animation and video post-processing functionality
+	in one package. Through its open architecture, Blender provides cross-platform
+	interoperability, extensibility, an incredibly small footprint, and a tightly
+	integrated workflow. Blender is one of the most popular Open Source 3D graphics
+	applications in the world. Aimed at media professionals and artists world-wide,
+	Blender can be used to create 3D visualizations, stills as well as broadcast and
+	cinema quality videos, while the incorporation of a real-time 3D engine allows
+	for the creation of 3D interactive content for stand-alone playback.</description>
+    <projectUrl>http://www.blender.org</projectUrl>
+    <tags>blender 3d graphics video</tags>
+    <licenseUrl>http://download.blender.org/release/GPL-license.txt</licenseUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <iconUrl>https://github.com/forivall/blender-chocolatey/raw/master/logo.png</iconUrl>
+  </metadata>
+</package>

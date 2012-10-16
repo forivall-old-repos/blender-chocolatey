@@ -1,0 +1,1 @@
+Install-ChocolateyZipPackage 'blender' 'http://download.blender.org/release/Blender2.64/blender-2.64a-release-windows32.zip' "$(Split-Path -parent $MyInvocation.MyCommand.Definition)"  'http://download.blender.org/release/Blender2.64/blender-2.64a-release-windows64.zip'
